@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qr-code-tailwind/static/css/main.01ed843c.css",
+    "main.js": "/qr-code-tailwind/static/js/main.34011d09.js",
+    "index.html": "/qr-code-tailwind/index.html",
+    "main.01ed843c.css.map": "/qr-code-tailwind/static/css/main.01ed843c.css.map",
+    "main.34011d09.js.map": "/qr-code-tailwind/static/js/main.34011d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01ed843c.css",
+    "static/js/main.34011d09.js"
+  ]
+}
